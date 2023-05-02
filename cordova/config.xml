@@ -11,13 +11,6 @@
   
     <platform name="android">
       
-        <preference name="android-minSdkVersion" value="22" />
-        
-        <preference name="android-compileSdkVersion" value="29" />
-        
-        <preference name="android-build-tool" value="29" />
-        
-        <preference name="android-targetSdkVersion" value="29" />
         
    
         
