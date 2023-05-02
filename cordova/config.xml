@@ -31,7 +31,6 @@
             <!-- <application android:requestLegacyExternalStorage="true" /> -->
         </edit-config>
         
-        <custom-preference name="android-manifest/uses-permission/@android:name" value="android.permission.FOREGROUND_SERVICE" />
         
         <config-file target="app/src/main/AndroidManifest.xml" parent="/manifest">
           
