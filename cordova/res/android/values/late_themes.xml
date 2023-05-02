@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources xmlns:android="http://schemas.android.com/apk/res/android">
+      <style name="Theme.Late" parent="@style/Theme.Tabris.Light.DarkAppBar">
+         <item name="colorPrimary">#607abc</item>
+         <item name="colorPrimaryDark">#607abc</item>
+         <item name="colorAccent">#607abc</item>
+      </style>
+    </resources>
